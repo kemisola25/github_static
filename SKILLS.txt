@@ -1,0 +1,59 @@
+SKILL PROFILE
+
+FRAMEWORK: ANGULAR JS
+
+Concepts {interpoliation, property binding, class binding, style binding, evet binding, Template reference variables, 
+Two way binding, ngif directive, ngfor directive, ngswitch directive, component interaction, pipes,services , 
+Dependency Injection, Using a service,Using a Service, HTTP and Observables, Fetch Data Using HTTP, HTTP Error Handling,
+ Routing Navigation, Wildcard Route and Redirecting Route, Route Parameters, paramMap Observable, Optional Route Parameters,
+Relative Navigation, Child Routes}
+
+Exploring Angular {Template Driven Forms, Setting Up a New Project, Adding Form HTML, Binding Data to a Model, 
+Binding Data with ngForm, Tracking state and validity, Validation with Visual Feedback, Displaying Error Messages
+select control validation, form validation, submitting form data, Express Server to Receive Form, Error Handling
+TDF and Reactive Forms, Reactive Forms, Adding form HTML, Nesting Form Groups, Managing Control Values
+FormBuilder Service, Simplee Validation, Custom Validation, Cross Field Validation, Conditional Validation
+Dynamic Form Controls} 
+
+
+
+FRONTEND: HTML, CSS AND JAVASCRIPT 
+
+INSTALL FONT AWESOME
+
+INSTALL BOOSTRAP 
+
+I KNOW A FEW HTML TAGS
+
+
+BACKEND: C#
+
+CREATE DATABASES AND TABLES AND SCAFFOLD TABLES NTO AN MVC PROJECT - USING DBFIRST
+
+CREATE DATABASES AND TABLES AND SCAFFOLD TABLES NTO AN MVC PROJECT - USING CODEFIRST
+
+CREATING VARIABLES AND USING CONDITIONS
+
+LOGICAL OPERATORS (AND, OR, NOT)
+
+MVC - HOW IT WORKS 
+
+Know what lambda expression looks like
+
+namespaces would usually be the name of the folder in which the class is
+
+The class is what is intantiated
+
+
+SQL :
+
+CREATE A DATABASE
+
+CREATE TABLES
+
+CREATE DATABASE AND USER DEFINED FILES, PRIMARY DATA FILES AND TRANSACTION LOG FILE
+
+WRITE BASIC QUERIES USING SELECT STATEMENT
+
+INTERMEDIATE UNDERSTANDING ON ENTITY RELATIONSHIP 
+
