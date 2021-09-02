@@ -1,0 +1,19 @@
+@Import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-color: #222222;
+    color:#e4e4e4 ;
+    font-weight:100 ;
+    font-family: 'Roboto', sans-serif;
+    background-image:url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGVjaHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80") ;
+}
+h1{
+    text-align: left;
+    color: rgb(15, 5, 68);
+    letter-spacing: -1.5;
+}
+form input{
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}

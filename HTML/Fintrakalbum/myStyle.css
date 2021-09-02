@@ -1,0 +1,123 @@
+@Import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-color: red;
+    color:#e4e4e4 ;
+    font-weight:100 ;
+    font-family: 'Roboto', sans-serif;
+    background-image: url('https://images.unsplash.com/photo-1622495488655-498a6e9bb902?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80');
+
+}
+h1{
+    text-align: center;
+    color:#e4e4e4;
+    letter-spacing: -1.5;
+}
+h2{
+    text-align: right;
+    color:#e4e4e4;
+    letter-spacing: -1.5;}
+.card{ 
+    background-color:black ;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 40px;
+
+}
+img{
+    width: 100%;
+    border-radius:5px ;
+    max-height: 150px;
+    object-fit: cover;
+    align-content: center;
+}
+
+.skill-set span{
+    display: inline-block ;
+    Padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #e4e4e4;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-weight: 400;
+}
+
+.button-wrapper{
+    text-align: center;
+    
+}
+
+.button-wrapper button{
+    width: 200px;
+    height:50px ;
+    border-radius:40px ;
+    background-color: #e4e4e4;
+    font-size: 20px;
+    color: blue;
+    transition: all 0.2 ease-out;
+    border: none ;
+    border-width: 0;
+}
+.button-wrapper button :hover{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+transform: scale(1.02);}
+
+#cards-holder{
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 80%;
+    justify-content: space-between;
+    padding: 20px; 
+
+}
+/*for the alignment of name and avatar */
+form input{
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 5px;
+}
+/*for the alignment of about you & skill set*/
+form textarea{
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+#wrapper{
+    display: flex;
+}
+
+.input-wrapper{
+    margin-bottom: 28px;
+}
+.input-wrapper input{
+height: 50px;
+}
+
+.input-wrapper textarea{
+    height: 140px;
+}
+/*for the submit button*/
+.input-wrapper button{
+    width: 100%;
+    display: block;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    border-radius:5px ;
+    background-color:#e44343 ;
+    color: #fff ;
+}
+.input-wrapper button:hover{
+    color: greenyellow;
+}
+/*for the positioning of the textarea*/
+aside{
+     flex: 3; 
+    padding-top: 20px;
+    padding-left:20px ;
+}
